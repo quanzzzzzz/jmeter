@@ -1,1 +1,5 @@
-# jmeter
+## Phần Kiểm Thử Hiệu Năng (JMeter)
+- Thư mục: [jmeter/](jmeter/)
+- Báo cáo chi tiết: [jmeter/readme.md](jmeter/readme.md)
+- File JMeter: [KiemThuHieuNang_VnExpress.jmx](jmeter/KiemThuHieuNang_VnExpress.jmx)
+- Kết quả: [CSV Summary](jmeter/results_summary.csv), [Screenshot](jmeter/screenshot_summary.png)
