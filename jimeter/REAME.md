@@ -1,6 +1,6 @@
 # Báo Cáo Kiểm Thử Hiệu Năng Với Apache JMeter
 
-**Tác giả**: Qanu  
+**Tác giả**: Bui Xuan Quan  
 **Ngày thực hiện**: Tháng 3/2026  
 **Môn học**: Kiểm thử phần mềm 
 
